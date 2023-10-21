@@ -1,3 +1,4 @@
+// Prompan Uechanwech 6410451172
 package ku.cs.kafe.entity;
 
 import jakarta.persistence.Entity;
